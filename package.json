@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "is-online": "^7.0.0",
+    "rpi-gpio": "^0.8.1"
+  }
+}
